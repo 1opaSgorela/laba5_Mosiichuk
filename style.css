@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,600;1,300&family=Roboto:wght@400;500&display=swap');
+
+body{
+    background-image: url(https://img2.joyreactor.cc/pics/post/full/shuu-Illust-artist-%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D1%8B%D0%B5-%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8-art-7850224.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background: transparent;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 25px;
+}
+
+.footer{
+    background: transparent;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+}
+.nav-link{
+    color: aliceblue;
+}
+
+.navbar {
+    background: transparent;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.nav-link {
+    color: aliceblue;
+}
+
+.nav-link:hover,
+.nav-link:active {
+    color: #777;
+}
+
+.card{
+    margin-top: 25px;
+    background-color: transparent;
+    color: aliceblue;
+    margin-bottom: 100px;
+    transition: box-shadow 0.3s ease;
+}
+
+footer{
+    width: 100%;
+    height: auto;
+    background-color: transparent;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 25px;
+}
+
+footer h5{
+margin-top: 10px;
+}
+
+
+footer a{
+    color: white;
+    font-size: 14px;
+    margin-left: 10px; 
+    text-decoration: none;
+    font-size: 17px;
+    margin-bottom: 10px;
+}
+
+.graficlogo{
+    height: 50px;
+    
+}
+
+footer nav a:hover{
+    border-bottom: 1px solid white;
+    
+}
+
+.social img{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    height: 20px;
+    
+}
+
+.footer-menu{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.btn + .card:hover, .card:hover {
+    box-shadow: 5px 10px 15px rgba(0, 0, 0, 0.3); 
+}
+
+.table {
+    text-align: center;
+    color: aliceblue;
+    width: 90%;
+    margin: auto;
+
+}
+
+h5{
+    margin-top: 45px;
+}
